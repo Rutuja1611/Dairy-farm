@@ -1,0 +1,111 @@
+.hero-section{
+    background-image: url("https://cdn.pixabay.com/photo/2018/08/16/21/12/cow-3611501_960_720.jpg");
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 5rem;
+    align-items: center;
+}
+.font-md{
+    font-size: 80px;
+    font-weight: 500;
+}
+
+.font-md1{
+    font-size: 40px;
+    font-weight: 500;
+}
+.bg{
+    background-color: white;
+}
+.hero-section1{
+    background-image: url("https://images.unsplash.com/photo-1637382752225-d7f97e1ddd03?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=933&q=80");
+    height: 18rem;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 12rem;
+}
+.img-md2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: end;
+}
+.card-md{
+    display: flex;
+    align-items: center;
+    padding: 3rem;
+    margin: 1rem;
+}
+.img-md{
+    height: 15rem;
+    width: 20rem;
+}
+.hero-section2{
+    background-image: url("https://cdn.pixabay.com/photo/2016/07/11/08/29/cow-1509258_960_720.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.img-md1{
+    height: 20rem;
+    width: 20rem;
+}
+.img-md3{
+    height: 10rem;
+    width: 10rem;
+}
+.card-menu2{
+    display: flex;
+    align-items: center;
+}
+.hero-section3{
+    background-image: url("https://cdn.pixabay.com/photo/2018/05/08/10/41/apple-pie-3382722_960_720.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.mybg{
+    background-color: rgba(0, 0, 0, 0.452);
+    height: 100vh;
+}
+.img-md4{
+    height: 10rem;
+    width: 10rem;
+}
+.img1{
+    background-image: url("https://cdn.pixabay.com/photo/2019/09/27/09/59/pumpkin-soup-4508015_960_720.jpg");
+    height: 14rem;
+    width: 10rem;
+    background-position: center; 
+
+}
+.img2{
+    background-image: url("https://cdn.pixabay.com/photo/2017/04/03/18/41/dessert-2199271_960_720.jpg");
+    height: 14rem;
+    width: 10rem;
+    background-position: center;
+}
+.hero-section4{
+    background-image: url("https://cdn.pixabay.com/photo/2022/05/16/13/49/cow-7200409_960_720.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.img-md5{
+    height: 15rem;
+    width: 17rem;
+}
+.mybg2{
+    background-color: rgba(255, 255, 0, 0.829);
+}
+.mybg3{
+    background-color: rgba(0, 0, 0, 0.897);
+}
